@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+Pillow
+python-dotenv
+google-generativeai
+mysql-connector-python  # or you can use PyMySQL
+signup
